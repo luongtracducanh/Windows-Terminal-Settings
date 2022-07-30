@@ -1,5 +1,5 @@
 # Windows-Terminal-Settings
-Below is the code to the JSON file that I use for the Windows Terminal application (Which you can download from the [Microsoft Store](https://www.microsoft.com/store/productId/9N0DX20HK701)). 
+Below is the code to the JSON file that I use for the Windows Terminal application (which you can download from the [Microsoft Store](https://www.microsoft.com/store/productId/9N0DX20HK701)). 
 
 This will include terminals for:
 - Windows PowerShell
