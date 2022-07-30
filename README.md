@@ -100,7 +100,7 @@ Feel free to configure these settings to your preference.
                 "cursorShape": "filledBox",
                 "guid": "{2c4de342-38b7-51cf-b940-2309a097f518}",
                 "hidden": false,
-                "name": "Ubuntu",
+                "name": "Ubuntu 20.04",
                 "source": "Windows.Terminal.Wsl"
             },
             {
