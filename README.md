@@ -4,13 +4,13 @@ This repository contains the code for the JSON file I use for the Windows Termin
 This will include terminals for:
 - Windows PowerShell
 - Command Prompt
-- Azure Cloud Shell
-- Developer Command Prompt for VS 2022
-- Developer PowerShell for VS 2022
-- Ubuntu 20.04
-- Git Bash
-- MINGW64 / MSYS2
-- MSYS / MSYS2
+- [Azure Cloud Shell](https://docs.microsoft.com/en-us/azure/cloud-shell/overview)
+- [Developer Command Prompt for VS 2022](https://docs.microsoft.com/en-us/visualstudio/ide/reference/command-prompt-powershell?view=vs-2022)
+- [Developer PowerShell for VS 2022](https://docs.microsoft.com/en-us/visualstudio/ide/reference/command-prompt-powershell?view=vs-2022)
+- [Ubuntu 20.04](https://docs.microsoft.com/en-us/windows/wsl/install)
+- [Git Bash](https://git-scm.com/downloads)
+- [MINGW64 / MSYS2](https://www.msys2.org/)
+- [MSYS / MSYS2](https://www.msys2.org/)
 
 (The working directories for Git Bash and MSYS2 will be starting at **`C:\Users\Pro`**)
 
