@@ -4,7 +4,7 @@ This repository contains the code for the JSON file I use for the Windows Termin
 This will include terminals for:
 - Windows PowerShell
 - Command Prompt
-- [Azure Cloud Shell](https://docs.microsoft.com/en-us/azure/cloud-shell/overview)
+- Azure Cloud Shell
 - [Developer Command Prompt for VS 2022](https://docs.microsoft.com/en-us/visualstudio/ide/reference/command-prompt-powershell?view=vs-2022)
 - [Developer PowerShell for VS 2022](https://docs.microsoft.com/en-us/visualstudio/ide/reference/command-prompt-powershell?view=vs-2022)
 - [Ubuntu 20.04](https://docs.microsoft.com/en-us/windows/wsl/install)
