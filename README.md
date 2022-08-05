@@ -12,8 +12,6 @@ This will include terminals for:
 - [MINGW64 / MSYS2](https://www.msys2.org/)
 - [MSYS / MSYS2](https://www.msys2.org/)
 
-![screenshot](https://user-images.githubusercontent.com/94946568/183119659-3a2e9bea-bd79-4f02-b2bf-8cba33b442ef.jpg)
-
 (The working directories for Git Bash and MSYS2 will be starting at **`C:\Users\Pro`**)
 
 Feel free to configure these settings to your preference. 
