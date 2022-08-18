@@ -1,11 +1,9 @@
 {
     "$help": "https://aka.ms/terminal-documentation",
     "$schema": "https://aka.ms/terminal-profiles-schema",
-    "actions": 
-    [
+    "actions": [
         {
-            "command": 
-            {
+            "command": {
                 "action": "copy",
                 "singleLine": false
             },
@@ -20,8 +18,7 @@
             "keys": "ctrl+shift+f"
         },
         {
-            "command": 
-            {
+            "command": {
                 "action": "splitPane",
                 "split": "auto",
                 "splitMode": "duplicate"
@@ -34,51 +31,44 @@
     "copyOnSelect": false,
     "defaultProfile": "{61c54bbd-c2c6-5271-96e7-009a87ff44bf}",
     "launchMode": "maximized",
-    "profiles": 
-    {
-        "defaults": 
-        {
-            "colorScheme": "One Half Dark"
+    "profiles": {
+        "defaults": {
+            "bellStyle": "none",
+            "colorScheme": "One Half Dark",
+            "cursorShape": "filledBox"
         },
-        "list": 
-        [
+        "list": [
             {
                 "commandline": "%SystemRoot%\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
-                "cursorShape": "filledBox",
                 "guid": "{61c54bbd-c2c6-5271-96e7-009a87ff44bf}",
                 "hidden": false,
                 "name": "Windows PowerShell"
             },
             {
                 "commandline": "%SystemRoot%\\System32\\cmd.exe",
-                "cursorShape": "filledBox",
                 "guid": "{0caa0dad-35be-5f56-a8ff-afceeeaa6101}",
                 "hidden": false,
                 "name": "Command Prompt"
             },
             {
-                "cursorShape": "filledBox",
                 "guid": "{b453ae62-4e3d-5e58-b989-0a998ec441b8}",
                 "hidden": false,
                 "name": "Azure Cloud Shell",
                 "source": "Windows.Terminal.Azure"
             },
             {
-                "cursorShape": "filledBox",
                 "guid": "{624f17bc-2ca9-590c-be8e-57403b4393a3}",
                 "hidden": false,
                 "name": "Developer Command Prompt for VS 2022",
                 "source": "Windows.Terminal.VisualStudio"
             },
             {
-                "cursorShape": "filledBox",
                 "guid": "{2b1b6492-5611-51cd-aa00-19a5fa8e5499}",
                 "hidden": false,
                 "name": "Developer PowerShell for VS 2022",
                 "source": "Windows.Terminal.VisualStudio"
             },
             {
-                "cursorShape": "filledBox",
                 "guid": "{2c4de342-38b7-51cf-b940-2309a097f518}",
                 "hidden": false,
                 "name": "Ubuntu 20.04",
@@ -86,7 +76,6 @@
             },
             {
                 "commandline": "C:\\Program Files\\Git\\bin\\bash.exe",
-                "cursorShape": "filledBox",
                 "guid": "{c79901e0-85c4-49f5-8b27-79f1f1c4d4c7}",
                 "hidden": false,
                 "icon": "C:\\Program Files\\Git\\mingw64\\share\\git\\git-for-windows.ico",
@@ -95,25 +84,23 @@
             },
             {
                 "commandline": "C:/msys64/msys2_shell.cmd -defterm -here -no-start -mingw64",
-                "cursorShape": "filledBox",
                 "guid": "{17da3cac-b318-431e-8a3e-7fcdefe6d114}",
+                "hidden": false,
                 "icon": "C:/msys64/mingw64.ico",
                 "name": "MINGW64 / MSYS2",
                 "startingDirectory": "C:\\Users\\Pro"
             },
             {
                 "commandline": "C:/msys64/msys2_shell.cmd -defterm -here -no-start -msys",
-                "cursorHeight": 25,
-                "cursorShape": "filledBox",
                 "guid": "{71160544-14d8-4194-af25-d05feeac7233}",
+                "hidden": false,
                 "icon": "C:/msys64/msys2.ico",
                 "name": "MSYS / MSYS2",
                 "startingDirectory": "C:\\Users\\Pro"
             }
         ]
     },
-    "schemes": 
-    [
+    "schemes": [
         {
             "background": "#0C0C0C",
             "black": "#0C0C0C",
